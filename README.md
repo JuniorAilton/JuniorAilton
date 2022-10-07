@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @JuniorAilton
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Apache Kafka, Kotlin and still learning good practices of coding
-- 📫 I'm everywhere
+https://medium.com/@ajunior.em
 
 <!---
 JuniorAilton/JuniorAilton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
